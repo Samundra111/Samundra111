@@ -41,13 +41,13 @@ me understand applications deeply — making me a more effective tester.
 
 ## 🧪 QA Projects
 
-### 🔗 [Restful Booker QA Automation](https://github.com/yourusername/restful-booker-tests)
+### 🔗 [Restful Booker QA Automation](https://github.com/Samundra111/restful-booker-tests)
 > Full stack QA automation — UI + API testing
 - Playwright + Page Object Model (POM)
 - 20+ API tests with authentication and schema validation
 - CI/CD with GitHub Actions + Allure Reports
 
-### 🔗 [Saucedemo API Automation](https://github.com/yourusername/saucedemo-api-tests)
+### 🔗 [Saucedemo API Automation](https://github.com/Samundra111/sauce-demo-api-tests)
 > API automation framework with Python + Pytest
 - 16+ automated API tests
 - Fixtures, parametrize, conftest.py
