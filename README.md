@@ -55,18 +55,55 @@ me understand applications deeply — making me a more effective tester.
 
 ---
 
-## 📊 GitHub Stats
 
-![Samundra's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+
+
+
+
+
+## 🧪 QA Skills Overview
+
+| Skill | Level |
+|-------|-------|
+| Manual Testing | ⭐⭐⭐⭐⭐ |
+| API Automation (Pytest + Requests) | ⭐⭐⭐⭐⭐ |
+| UI Automation (Playwright + POM) | ⭐⭐⭐⭐ |
+| CI/CD (GitHub Actions) | ⭐⭐⭐⭐ |
+| Schema Validation (Pydantic) | ⭐⭐⭐⭐ |
+| SQL for QA | ⭐⭐⭐⭐ |
+| JIRA + Qase.io | ⭐⭐⭐⭐ |
 
 ---
 
 ## 📂 Other Repositories
 
-I also have 18+ repositories covering:
-- 🤖 Machine Learning projects
-- 🌐 Web Development projects
-- 📊 Data Analysis projects
+Beyond QA, I have 18+ repositories covering:
+
+| Area | Description |
+|------|-------------|
+| 🤖 Machine Learning | ML models, data preprocessing, predictions |
+| 🌐 Web Development | Frontend and backend projects |
+| 📊 Data Analysis | Data visualization and analysis |
+
+---
+
+## 📜 Certifications & Learning
+
+- ✅ ISTQB Foundation Level (Preparing)
+- ✅ Python for Automation
+- ✅ Playwright UI Automation
+- ✅ API Testing with Pytest + Requests
+- ✅ CI/CD with GitHub Actions
+
+---
+
+## 💼 What I'm Looking For
+
+> 🚀 Open to **Junior QA Engineer** or **Automation Tester** positions in Kathmandu, Nepal
+> 
+> I bring a unique combination of **QA expertise + development background** — 
+> I understand both how applications are built and how they should be tested.
 
 ---
 
@@ -74,3 +111,13 @@ I also have 18+ repositories covering:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:db3002448@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Samundra111&color=1F4E79&style=flat)
+
+*"Quality is not an act, it is a habit."* — Aristotle
+
+</div>
